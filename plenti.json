@@ -1,0 +1,21 @@
+{
+    "version": "0.1.14",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/plentico/plenti/releases/download/v0.1.14/plenti_0.1.14_Windows_32-bit.tar.gz",
+            "bin": [
+                "plenti.exe"
+            ],
+            "hash": "96507d0fdbdfef82476e3e9076b1fac030c430702fb2edb920d6cbd55c81b33d"
+        },
+        "64bit": {
+            "url": "https://github.com/plentico/plenti/releases/download/v0.1.14/plenti_0.1.14_Windows_64-bit.tar.gz",
+            "bin": [
+                "plenti.exe"
+            ],
+            "hash": "a441bf1c5ee531b36aa1289d48fc80139d5fee09149ffd42cfb44d51f9be12fe"
+        }
+    },
+    "license": "Apache-2.0",
+    "description": "Dead simple SSG with Svelte frontend and Go CLI."
+}
