@@ -1,19 +1,19 @@
 {
-    "version": "0.1.18",
+    "version": "0.1.19",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/plentico/plenti/releases/download/v0.1.18/plenti_0.1.18_Windows_32-bit.tar.gz",
+            "url": "https://github.com/plentico/plenti/releases/download/v0.1.19/plenti_0.1.19_Windows_32-bit.tar.gz",
             "bin": [
                 "plenti.exe"
             ],
-            "hash": "a8b958e21beac6aac0270cb0b86fd0e1cd4fcf9ea26e8bada587d3f7cb838076"
+            "hash": "0866bff17143838f1cb961ae1f98a1b4fd8f8c8f7a832e62e9b1d23837f295b1"
         },
         "64bit": {
-            "url": "https://github.com/plentico/plenti/releases/download/v0.1.18/plenti_0.1.18_Windows_64-bit.tar.gz",
+            "url": "https://github.com/plentico/plenti/releases/download/v0.1.19/plenti_0.1.19_Windows_64-bit.tar.gz",
             "bin": [
                 "plenti.exe"
             ],
-            "hash": "f4fb83ec8f1fed41df24d53aaf1e8f225814e99ad736e6e60d63cb13c560ef90"
+            "hash": "e09c6b2f180c04df7f04fc312a8bc88d581f75ad53851ddefe1d7de45551124d"
         }
     },
     "license": "Apache-2.0",
