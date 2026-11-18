@@ -1,12 +1,12 @@
 {
-    "version": "0.8.0",
+    "version": "0.8.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/plentico/plenti/releases/download/v0.8.0/plenti_0.8.0_windows_64-bit.zip",
+            "url": "https://github.com/plentico/plenti/releases/download/v0.8.1/plenti_0.8.1_windows_64-bit.zip",
             "bin": [
                 "plenti.exe"
             ],
-            "hash": "1b930bb89015cdda57d4629031c980edd735ea4e6e0e29b6ccfa7abc123dbb21"
+            "hash": "2a2d14193ef3a897ea9536f58c35f2f9d318da44e4a46e70e6c6d366242d05ae"
         }
     },
     "homepage": "https://plenti.co/",
